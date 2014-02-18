@@ -1,0 +1,6 @@
+port: 4000
+permalink:   date
+main_title:  "Hello MEAN"
+description: "Articles, tutorials, and help surrounding the MEAN stack"
+paginate: 5
+paginate_path: "page/:num"

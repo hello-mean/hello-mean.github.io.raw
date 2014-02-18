@@ -1,0 +1,11 @@
+{% include head.html %}
+
+<article class="post post-full">
+    <h1 class="title">{{ page.title }}</h1>
+    <p class="meta">
+        {% include post/meta.html %}
+    </p>
+    <div class="separator"></div>
+    {{ content }}
+</article>
+{% include footer.html %}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+ <title>Hello Mean</title>
+ <link href="http://hello-mean.com/atom.xml" rel="self"/>
+ <link href="http://hello-mean.com/"/>
+ <updated>2014-02-17T20:09:25-05:00</updated>
+ <id>http://hello-mean.com/</id>
+ <author>
+   <name>Brian Scaturro</name>
+   <email>scaturrob@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Hello MEAN incoming</title>
+   <link href="http://hello-mean.com/2014/02/17/incoming.html"/>
+   <updated>2014-02-17T00:00:00-05:00</updated>
+   <id>http://hello-mean.com/2014/02/17/incoming</id>
+   <content type="html">&lt;p&gt;Hello MEAN is on its way&lt;/p&gt;</content>
+ </entry>
+ 
+ 
+</feed>
